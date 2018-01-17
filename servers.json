@@ -1,0 +1,1 @@
+ {"Twitter": {"ip": "twitter.com", "low": "40", "medium": "70", "high": "100"},  "GoogleIPV4": {"ip": "172.217.16.67", "low": "30", "medium": "60", "high": "80"}, "w3schools": {"ip": "www.w3schools.com", "low": "40", "medium": "70", "high": "100"}, "Google": {"ip": "www.google.de", "low": "100", "medium": "200", "high": "300"}}
